@@ -10,14 +10,26 @@ MS in Artificial Intelligence | Nanyang Technological University, Singapore | **
 I'm curious and love learning new tech stacks to see how they are incorporated in industry level applications. I enjoy building projects and exploring new technologies. I'm passionate about playing around with data to work on real-world problems and creating solutions that make an impact.
 
 ## 💼 Past Experience
-Associate Consultant *(Aug 2022 – Jun 2025)*
+ZS Associates | Business Technology Solutions Associate Consultant *(Aug 2022 – Jun 2025)*
 - Built ETL pipelines processing 2-3 terabytes of data using Spark
 - Led backend development for pharmaceutical clients with R and PostgreSQL
-- Developed dashboards and tools for data analytics and reporting
+- Developed automated dashboards and tools for data analytics and reporting
 
 ## 📚 Research
-- **"Architects Companion: Simulation of Visual Impairments for Architectural Purpose"** - ICAIDS 2021
-- **"Leveraging machine learning techniques for disease prediction in rice plant"** - ICSSAS 2024
+- [**"Architects Companion: Simulation of Visual Impairments for Architectural Purpose"**](https://link.springer.com/chapter/10.1007/978-3-031-21385-4_36) - ICAIDS 2021
+- [**"Leveraging machine learning techniques for disease prediction in rice plant"**](https://ieeexplore.ieee.org/abstract/document/10760293) - ICSSAS 2024
+
+## 💻 Featured Projects
+
+### Football Match Win Predictor
+Machine learning model for predicting English Premier League match outcomes
+- **Tech:** Python, Scikit-learn, Web Scraping
+- Data processing, model optimization, and performance visualization
+
+### Crowd Counting
+Deep learning solution for crowd density estimation
+- **Tech:** Python, Multi-column CNN (MCNN)
+- Image-to-density map transformation for real-time crowd analysis
 
 ## 🌱 Currently Learning
 - Large Language Models (LLMs)
@@ -33,6 +45,11 @@ Associate Consultant *(Aug 2022 – Jun 2025)*
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+## 📊 GitHub Stats
+![Nikunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikunjj44&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunjj44&layout=compact&theme=radical)
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikunj-madan-79b8571b4/)
