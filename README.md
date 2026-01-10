@@ -2,6 +2,8 @@
 
 ## 🎓 Currently
 MS in Artificial Intelligence | Nanyang Technological University, Singapore | **CGPA: 4.6**
+
+
 **Specializations:** Generative AI for Visual Synthesis | Urban Computing | Text Data Management & Analysis
 
 ## 🚀 About Me
