@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Nikunj Madan
+
+## 🎓 About Me
+
+
 
 <!--
 **Nikunjj44/Nikunjj44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
