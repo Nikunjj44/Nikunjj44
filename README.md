@@ -46,11 +46,12 @@ Deep learning solution for crowd density estimation
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
+<!--
 ## 📊 GitHub Stats
 ![Nikunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikunjj44&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunjj44&layout=compact&theme=radical)
-
+-->
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikunj-madan-79b8571b4/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nmadan947@gmail.com)
