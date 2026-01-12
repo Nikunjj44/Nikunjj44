@@ -13,7 +13,7 @@ I'm curious and love learning new tech stacks to see how they are incorporated i
 ZS Associates | Business Technology Solutions Associate Consultant *(Aug 2022 – Jun 2025)*
 - Built ETL pipelines processing 2-3 terabytes of data using Spark
 - Led backend development for pharmaceutical clients with R and PostgreSQL
-- Developed automated dashboards and tools for data analytics and reporting
+- Developed automated dashboards and tools for data analytics and reporting primarily used by internal teams and clients (in hospitality and pharmaceutical fields)
 
 ## 📚 Research
 - [**"Architects Companion: Simulation of Visual Impairments for Architectural Purpose"**](https://link.springer.com/chapter/10.1007/978-3-031-21385-4_36) - ICAIDS 2021
@@ -21,14 +21,37 @@ ZS Associates | Business Technology Solutions Associate Consultant *(Aug 2022 �
 
 ## 💻 Featured Projects
 
+### Movie Recommendation System  
+Analyzes movie's metadeta and incorporates content-based filtering techniques to make personalised recommendations
+- **Tech / Skills:** Python, Natural Language Processing (NLP), Streamlit
+- Data processing, creating a recommendation system using TV-IVF Vectorizer and Cosine Similarity, Streamlit based web-application
+
+### Learned Dynamic Channel Pruning
+Modifies Stable Diffusion 1.5 model in order to reduce peak memory consumption while preserving image generation quality and speed
+- **Tech / Skills:** Python, Diffusion Models, Generative AI, PyTorch
+- Channel Importance Scoring Module: provides each channel with an importance score that determines whether the channel will be enabled or disabled during inference.
+- Pruning and Replacement Module: Applying pruning to the convolution layers and replacing the original U-Net with the pruned U-Net.
+- The importance scores are optimized using reconstruction loss and sparsity loss. Where the reconstruction loss preserves the channels that provide image quality and the sparsity loss encourages pruning. The optimal point provides the best memory reduction while at the same time preserving the image generation quality.
+- Hyperparameter tuning and Ablation studies is performed
+
+### Trajectory and Road Analysis
+Evaluating and improving the map matching performance in urban environments
+- **Tech / Skills:** Python, OSMNX, Matplotlib, Fast Map Matching, ST Matching Algorithm
+- Data processing, map matching using FMM, hyperparameter tuning, visualizing geographic trajectories
+
+### Yelp Reviews Data Analysis and Processing
+Covers data analysis and processing of customer reviews data and creating applications to generate meaningful insights.
+- **Tech / Skills:** Python, Natural Language Processing (NLP), Natural Language Toolkit (NLTK)
+- Data processing, Stemming, VADER Sentiment Analysis, Negation Detection
+
 ### Football Match Win Predictor
 Machine learning model for predicting English Premier League match outcomes
-- **Tech:** Python, Scikit-learn, Web Scraping
+- **Tech / Skills:** Python, Scikit-learn, Web Scraping
 - Data processing, model optimization, and performance visualization
 
 ### Crowd Counting
 Deep learning solution for crowd density estimation
-- **Tech:** Python, Multi-column CNN (MCNN)
+- **Tech / Skills:** Python, Multi-column CNN (MCNN)
 - Image-to-density map transformation for real-time crowd analysis
 
 ## 🌱 Currently Learning
