@@ -24,25 +24,25 @@ ZS Associates | Business Technology Solutions Associate Consultant *(Aug 2022 â€
 ### Movie Recommendation System  
 Analyzes movie's metadeta and incorporates content-based filtering techniques to make personalised recommendations
 - **Tech / Skills:** Python, Natural Language Processing (NLP), Streamlit
-- Data processing, creating a recommendation system using TV-IVF Vectorizer and Cosine Similarity, Streamlit based web-application
+- Data processing, creating a recommendation system using TV-IVF vectorizer and cosine similarity, and streamlit based web-application
 
 ### Learned Dynamic Channel Pruning
 Modifies Stable Diffusion 1.5 model in order to reduce peak memory consumption while preserving image generation quality and speed
 - **Tech / Skills:** Python, Diffusion Models, Generative AI, PyTorch
-- Channel Importance Scoring Module: provides each channel with an importance score that determines whether the channel will be enabled or disabled during inference.
-- Pruning and Replacement Module: Applying pruning to the convolution layers and replacing the original U-Net with the pruned U-Net.
+- **Channel Importance Scoring Module:** provides each channel with an importance score that determines whether the channel will be enabled or disabled during inference.
+- **Pruning and Replacement Module:** Applying pruning to the convolution layers and replacing the original U-Net with the pruned U-Net.
 - The importance scores are optimized using reconstruction loss and sparsity loss. Where the reconstruction loss preserves the channels that provide image quality and the sparsity loss encourages pruning. The optimal point provides the best memory reduction while at the same time preserving the image generation quality.
 - Hyperparameter tuning and Ablation studies is performed
 
 ### Trajectory and Road Analysis
 Evaluating and improving the map matching performance in urban environments
 - **Tech / Skills:** Python, OSMNX, Matplotlib, Fast Map Matching, ST Matching Algorithm
-- Data processing, map matching using FMM, hyperparameter tuning, visualizing geographic trajectories
+- Data processing, map matching using FMM, hyperparameter tuning, and visualizing geographic trajectories
 
 ### Yelp Reviews Data Analysis and Processing
 Covers data analysis and processing of customer reviews data and creating applications to generate meaningful insights.
 - **Tech / Skills:** Python, Natural Language Processing (NLP), Natural Language Toolkit (NLTK)
-- Data processing, Stemming, VADER Sentiment Analysis, Negation Detection
+- Data processing, stemming, VADER sentiment analysis, and negation detection
 
 ### Football Match Win Predictor
 Machine learning model for predicting English Premier League match outcomes
