@@ -49,11 +49,6 @@ Machine learning model for predicting English Premier League match outcomes
 - **Tech / Skills:** Python, Scikit-learn, Web Scraping
 - Data processing, model optimization, and performance visualization
 
-### Crowd Counting
-Deep learning solution for crowd density estimation
-- **Tech / Skills:** Python, Multi-column CNN (MCNN)
-- Image-to-density map transformation for real-time crowd analysis
-
 ## 🌱 Currently Learning
 - Large Language Models (LLMs)
 - RAG and Agentic AI
