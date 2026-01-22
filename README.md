@@ -4,8 +4,8 @@
 MS in Artificial Intelligence | Nanyang Technological University, Singapore | **CGPA: 4.6**
 
 
-**Specializations:** Generative AI for Visual Synthesis | Urban Computing | Text Data Management & Analysis
-**Currently Studying:** Deep Learning | Multi-agent Systems | Advanced Computer Vision
+**Specializations:** Generative AI for Visual Synthesis | Urban Computing | Text Data Management & Analysis  
+**Currently Studying:** Deep Learning | Multi-agent Systems | Advanced Computer Vision  
 
 ## 🚀 About Me
 I'm curious and love learning new tech stacks to see how they are incorporated in industry level applications. I enjoy building projects and exploring new technologies. I'm passionate about playing around with data to work on real-world problems and creating solutions that make an impact.
