@@ -17,7 +17,7 @@ ZS Associates | Business Technology Solutions Associate Consultant *(Aug 2022 �
 - Developed automated dashboards and tools for data analytics and reporting primarily used by internal teams and clients (in hospitality and pharmaceutical fields)
 
 ## 📚 Research
-- [**"Architects Companion: Simulation of Visual Impairments for Architectural Purpose"**](https://link.springer.com/chapter/10.1007/978-3-031-21385-4_36) - ICAIDS 2021
+- [**"Architects Companion: Simulation of Visual Impairments for Architectural Purposes"**](https://link.springer.com/chapter/10.1007/978-3-031-21385-4_36) - ICAIDS 2021
 - [**"Machine learning techniques for disease prediction in rice plant"**](https://ieeexplore.ieee.org/abstract/document/10760293) - ICSSAS 2024
 
 ## 💻 Featured Projects
