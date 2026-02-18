@@ -10,11 +10,13 @@ MS in Artificial Intelligence | Nanyang Technological University, Singapore | **
 ## 🚀 About Me
 I'm curious and love learning new tech stacks to see how they are incorporated in industry level applications. I enjoy building projects and exploring new technologies. I'm passionate about playing around with data to work on real-world problems and creating solutions that make an impact.
 
+<!--
 ## 💼 Past Experience
 ZS Associates | Business Technology Solutions Associate Consultant *(Aug 2022 – Jun 2025)*
 - Built ETL pipelines processing 2-3 terabytes of data using Spark
 - Led backend development for pharmaceutical clients with R and PostgreSQL
 - Developed automated dashboards and tools for data analytics and reporting primarily used by internal teams and clients (in hospitality and pharmaceutical fields)
+-->
 
 ## 📚 Research
 - [**"Architects Companion: Simulation of Visual Impairments for Architectural Purposes"**](https://link.springer.com/chapter/10.1007/978-3-031-21385-4_36) - ICAIDS 2021
