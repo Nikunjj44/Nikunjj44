@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Nikunj Madan
 
 ## 🎓 Currently
-MS in Artificial Intelligence | Nanyang Technological University, Singapore | **CGPA: 4.6**
+MS in Artificial Intelligence | Nanyang Technological University, Singapore | **CGPA: 4.5**
 
 
-**Specializations:** Generative AI for Visual Synthesis | Urban Computing | Text Data Management & Analysis  
+**Specializations:** Advanced Computer Vision | Generative AI for Visual Synthesis | Multi-agent Systems | Text Data Management & Analysis | Urban Computing |
 **Currently Studying:** Deep Learning | Multi-agent Systems | Advanced Computer Vision  
 
 ## 🚀 About Me
